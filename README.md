@@ -1,5 +1,5 @@
 # Hi, I’m @tc-huang 🧑🏻‍💻 <img src="https://komarev.com/ghpvc/?username=tc-huang&style=flat-square&color=blue" alt=""/>
-I am a master’s student in the [Robotics Lab](http://robotics.csie.ncku.edu.tw/index.html) at the [Department of Computer Science and Information Engineering](https://www.csie.ncku.edu.tw/en/) at National Cheng Kung University (NCKU)
+I am a master’s student in the [Robotics Lab](http://robotics.csie.ncku.edu.tw/index.html) at the [Department of Computer Science and Information Engineering](https://www.csie.ncku.edu.tw/en/) at National Cheng Kung University (NCKU).
 
 - 👀 I’m interested in AI and robotics.
 <!---
